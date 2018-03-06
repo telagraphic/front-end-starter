@@ -7,7 +7,7 @@
 - [html reference](https://htmlreference.io/)
 - [css reference](https://cssreference.io/)
 
-# [front end learning]
+# front end learning
 - [learn html and css](https://marksheet.io/)
 - [front end interview handbook](https://github.com/yangshun/front-end-interview-handbook)
 
