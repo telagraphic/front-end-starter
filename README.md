@@ -1,7 +1,6 @@
 # checklist
 - [front end checklist](https://frontendchecklist.io/)
-- [css normalize](http://nicolasgallagher.com/about-normalize-css/)
- - [css source code](https://github.com/necolas/normalize.css/blob/master/normalize.css)
+
 
 # reference
 - [html reference](https://htmlreference.io/)
@@ -20,6 +19,7 @@
 - [css grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 # tools
+- [css normalize](https://github.com/necolas/normalize.css/blob/master/normalize.css)
 - [Autoprefixer](https://autoprefixer.github.io/)
 - [Href Tools](https://hreftools.com)
 - [PlainJS](https://plainjs.com/)
