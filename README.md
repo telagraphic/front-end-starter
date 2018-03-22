@@ -18,3 +18,10 @@
 # guides
 - [Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [css grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+# tools
+- [Autoprefixer](https://autoprefixer.github.io/)
+- [Href Tools](https://hreftools.com)
+- [PlainJS](https://plainjs.com/)
+- [Modular Scale](https://www.gridlover.net/try)
+- [Fluid Typography Formula](https://css-tricks.com/snippets/css/fluid-typography/)
