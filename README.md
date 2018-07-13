@@ -40,7 +40,7 @@
 - [Modular Scale](http://www.modularscale.com)
 - [Google Fonts](https://fonts.google.com/)
 
-#Learning
+# Learning
 - [Learn HTML/CSS](https://marksheet.io/)
 - [Front End Interview Book](https://github.com/yangshun/front-end-interview-handbook)
 - [CSS Pro Tips](https://github.com/AllThingsSmitty/css-protips)
